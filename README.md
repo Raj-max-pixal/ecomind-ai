@@ -216,3 +216,14 @@ MIT
 - [ ] Integration with IoT devices
 - [ ] Multi-language support
 - [ ] Advanced reporting system
+
+Preview Images
+1.<img width="1400" height="800" alt="1" src="https://github.com/user-attachments/assets/be794904-8c46-46f7-b8b2-89a4a85dcd74" />
+
+2.<img width="1919" height="739" alt="2" src="https://github.com/user-attachments/assets/d0b98e83-6b79-457a-899a-23229393b21d" />
+
+3.<img width="1919" height="888" alt="3" src="https://github.com/user-attachments/assets/d644d0e4-b21f-466f-9a84-3f5433018e18" />
+
+4.<img width="1919" height="758" alt="4" src="https://github.com/user-attachments/assets/7f767900-41a6-49cb-81f8-f7637cd036f1" />
+
+5.<img width="1258" height="910" alt="5" src="https://github.com/user-attachments/assets/32e271ac-98e8-4b22-817f-374d9944842d" />
